@@ -10,11 +10,7 @@ const benefits = [
   {
     icon: Clock,
     title: "Same-Day Service",
-<<<<<<< HEAD
     description: "Available across most of Hertfordshire",
-=======
-    description: "Available in most UK locations",
->>>>>>> cd24c5411e7f2b13ce08ad525b5c62e95732334f
     tag: "Fast Response",
   },
   {
@@ -105,13 +101,8 @@ export function BenefitsSection() {
       </div>
       <div className="sr-only">
         NuTyre provides mobile tyre fitting, emergency tyre replacement,
-<<<<<<< HEAD
         roadside tyre installation, and same-day tyre services across most of
         Hertfordshire.
-=======
-        roadside tyre installation, and same-day tyre services across the United
-        Kingdom.
->>>>>>> cd24c5411e7f2b13ce08ad525b5c62e95732334f
       </div>
     </section>
   );

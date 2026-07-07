@@ -44,11 +44,7 @@ export function TyreOptionsSection() {
   return (
     <section
       className="relative w-full py-24 lg:py-32 bg-nutyre-bg overflow-hidden"
-<<<<<<< HEAD
       aria-labelledby="tyre-options-hertfordshire"
-=======
-      aria-labelledby="tyre-options-uk"
->>>>>>> cd24c5411e7f2b13ce08ad525b5c62e95732334f
     >
       <div className="absolute top-0 right-0 w-1/3 h-full bg-nutyre-bg-secondary/30 -skew-x-12 translate-x-1/2 pointer-events-none" />
 
@@ -128,11 +124,7 @@ export function TyreOptionsSection() {
         </div>
       </div>
       <div className="sr-only">
-<<<<<<< HEAD
         Buy car tyres in Hertfordshire with professional mobile tyre fitting, including
-=======
-        Buy car tyres in the UK with professional mobile tyre fitting, including
->>>>>>> cd24c5411e7f2b13ce08ad525b5c62e95732334f
         premium tyres, budget tyres, run-flat tyres, and seasonal tyres supplied
         and fitted at your home or workplace.
       </div>

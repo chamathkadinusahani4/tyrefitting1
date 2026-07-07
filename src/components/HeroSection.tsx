@@ -28,11 +28,7 @@ export function HeroSection() {
                 <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-nutyre-yellow opacity-75"></span>
                 <span className="relative inline-flex rounded-full h-2 w-2 bg-nutyre-yellow"></span>
               </span>
-<<<<<<< HEAD
               Same-Day Service Available Across Hertfordshire
-=======
-              Same-Day Service Available UK-Wide
->>>>>>> cd24c5411e7f2b13ce08ad525b5c62e95732334f
             </div>
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-heading m-0 font-extrabold leading-[1.1] text-white">
               Tyre Fitting Services Tailored to Your Vehicle
@@ -40,11 +36,7 @@ export function HeroSection() {
             <div className="flex flex-col sm:flex-row gap-4 pt-4">
               <a
                 href="https://nutyre.co.uk/find-a-fitter"
-<<<<<<< HEAD
                 aria-label="Check availability and book mobile tyre fitting service in Hertfordshire"
-=======
-                aria-label="Check availability and book mobile tyre fitting service in the UK"
->>>>>>> cd24c5411e7f2b13ce08ad525b5c62e95732334f
                 className="transform hover:scale-105 transition-all shadow-2xl active:scale-95"
               >
                 <CTAButton className="px-5 py-2 text-lg font-bold text-sm">
@@ -89,7 +81,6 @@ export function HeroSection() {
             </p>
             <h2 className="sr-only">
               Same day mobile tyre fitting available at your home, work, or
-<<<<<<< HEAD
               roadside across most of Hertfordshire
             </h2>
 
@@ -101,10 +92,6 @@ export function HeroSection() {
                 you.
               </p>
             </div>
-=======
-              roadside anywhere in the UK
-            </h2>
->>>>>>> cd24c5411e7f2b13ce08ad525b5c62e95732334f
           </div>
           <div className="mt-16 grid grid-cols-2 md:grid-cols-3 gap-8 opacity-70">
             <div className="text-white pl-4">
@@ -123,11 +110,7 @@ export function HeroSection() {
             </div>
             <div className="hidden md:block text-white border-l border-gray-300 pl-4">
               <span className="block text-2xl font-bold text-black">
-<<<<<<< HEAD
                 Hertfordshire Wide
-=======
-                UK Wide
->>>>>>> cd24c5411e7f2b13ce08ad525b5c62e95732334f
               </span>
               <span className="text-xs uppercase tracking-tighter text-gray-400">
                 Doorstep Fitting
