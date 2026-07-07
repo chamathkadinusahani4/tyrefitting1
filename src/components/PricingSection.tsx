@@ -12,7 +12,11 @@ export function PricingSection() {
   return (
     <section
       className="relative w-full py-24 lg:py-32 bg-white overflow-hidden tread-texture"
+<<<<<<< HEAD
       aria-labelledby="mobile-tyre-fitting-pricing-hertfordshire"
+=======
+      aria-labelledby="mobile-tyre-fitting-pricing-uk"
+>>>>>>> cd24c5411e7f2b13ce08ad525b5c62e95732334f
     >
       {/* Background Decorative Element */}
       <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-transparent via-nutyre-yellow to-transparent" />
@@ -22,10 +26,17 @@ export function PricingSection() {
           {/* Header with modern Badge */}
           <div className="text-center mb-16">
             <span className="inline-block px-4 py-1.5 mb-4 text-xs font-bold tracking-widest uppercase bg-gray-800 text-nutyre-bg rounded-lg">
+<<<<<<< HEAD
               Trusted Across Hertfordshire
             </span>
             <h2 className="text-4xl md:text-5xl lg:text-7xl font-heading font-black text-nutyre-text mb-6">
               Serving Hertfordshire with <br />
+=======
+              Trusted Across the UK
+            </span>
+            <h2 className="text-4xl md:text-5xl lg:text-7xl font-heading font-black text-nutyre-text mb-6">
+              Serving the UK with <br />
+>>>>>>> cd24c5411e7f2b13ce08ad525b5c62e95732334f
               <span className="text-nutyre-yellow">Transparent Pricing</span>
             </h2>
           </div>
@@ -58,7 +69,11 @@ export function PricingSection() {
                         {" "}
                         tyre fitting services{" "}
                       </span>{" "}
+<<<<<<< HEAD
                       that keep Hertfordshire rolling — safely and conveniently.
+=======
+                      that keep the UK rolling — safely and conveniently.
+>>>>>>> cd24c5411e7f2b13ce08ad525b5c62e95732334f
                     </p>
                   </div>
 
@@ -118,7 +133,11 @@ export function PricingSection() {
         </div>
       </div>
       <div className="sr-only">
+<<<<<<< HEAD
         Mobile tyre fitting cost in Hertfordshire includes tyre installation, wheel
+=======
+        Mobile tyre fitting cost in the UK includes tyre installation, wheel
+>>>>>>> cd24c5411e7f2b13ce08ad525b5c62e95732334f
         balancing, and tyre disposal. Book affordable mobile tyre fitting
         services near you with transparent pricing.
       </div>

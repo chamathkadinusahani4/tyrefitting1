@@ -51,7 +51,11 @@ export function ConvenienceSection() {
                   <span className="font-bold">
                     same-day or next-day appointments
                   </span>{" "}
+<<<<<<< HEAD
                   across most of Hertfordshire — because your time matters.
+=======
+                  in most UK locations — because your time matters.
+>>>>>>> cd24c5411e7f2b13ce08ad525b5c62e95732334f
                 </p>
               </div>
             </div>
@@ -113,8 +117,13 @@ export function ConvenienceSection() {
       </div>
       <div className="sr-only">
         NuTyre provides emergency tyre replacement, mobile tyre installation,
+<<<<<<< HEAD
         roadside tyre fitting, and same-day tyre service across most of
         Hertfordshire.
+=======
+        roadside tyre fitting, and same-day tyre service across the United
+        Kingdom.
+>>>>>>> cd24c5411e7f2b13ce08ad525b5c62e95732334f
       </div>
     </section>
   );

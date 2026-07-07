@@ -144,8 +144,12 @@ export function IncludedSection() {
       <div className="sr-only">
         Our mobile tyre fitting service includes tyre replacement, wheel
         balancing, valve replacement, puncture tyre service, and mobile tyre
+<<<<<<< HEAD
         installation at your home, workplace, or roadside across most of
         Hertfordshire.
+=======
+        installation at your home, workplace, or roadside anywhere in the UK.
+>>>>>>> cd24c5411e7f2b13ce08ad525b5c62e95732334f
       </div>
     </section>
   );

@@ -26,11 +26,16 @@ export function NuTyreLanding() {
     <>
       <Helmet>
         <title>
+<<<<<<< HEAD
           Mobile Tyre Fitting Hertfordshire | Same-Day Service at Your Location | NuTyre
+=======
+          Mobile Tyre Fitting UK | Same-Day Service at Your Location | NuTyre
+>>>>>>> cd24c5411e7f2b13ce08ad525b5c62e95732334f
         </title>
 
         <meta
           name="description"
+<<<<<<< HEAD
           content="Book mobile tyre fitting across most of Hertfordshire with NuTyre. Same-day service, professional technicians, and trusted tyre brands delivered to your location."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -39,12 +44,26 @@ export function NuTyreLanding() {
         <meta
           property="og:description"
           content="Same-day mobile tyre fitting service across Hertfordshire."
+=======
+          content="Book mobile tyre fitting anywhere in the UK with NuTyre. Same-day service, professional technicians, and trusted tyre brands delivered to your location."
+        />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="robots" content="index, follow" />
+        <meta property="og:title" content="Mobile Tyre Fitting UK | NuTyre" />
+        <meta
+          property="og:description"
+          content="Same-day mobile tyre fitting service across the UK."
+>>>>>>> cd24c5411e7f2b13ce08ad525b5c62e95732334f
         />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://nutyre.co.uk/" />
         <meta property="og:image" content="https://nutyre.co.uk/preview.png" />
         <meta name="twitter:card" content="summary_large_image" />
+<<<<<<< HEAD
         <meta name="twitter:title" content="NuTyre Mobile Tyre Fitting Hertfordshire" />
+=======
+        <meta name="twitter:title" content="NuTyre Mobile Tyre Fitting UK" />
+>>>>>>> cd24c5411e7f2b13ce08ad525b5c62e95732334f
         <meta
           name="twitter:description"
           content="Professional mobile tyre fitting at your location."
@@ -60,15 +79,24 @@ export function NuTyreLanding() {
             name: "NuTyre",
             url: "https://nutyre.co.uk",
             image: "https://nutyre.co.uk/preview.png",
+<<<<<<< HEAD
             description: "Mobile tyre fitting service across most of Hertfordshire",
             areaServed: "Hertfordshire",
+=======
+            description: "Mobile tyre fitting service across the UK",
+            areaServed: "United Kingdom",
+>>>>>>> cd24c5411e7f2b13ce08ad525b5c62e95732334f
             serviceType: "Mobile Tyre Fitting",
           })}
         </script>
       </Helmet>
 
       <main className="w-full min-h-screen bg-nutyre-bg">
+<<<<<<< HEAD
         <h1 className="sr-only">Mobile Tyre Fitting Service Across Hertfordshire</h1>
+=======
+        <h1 className="sr-only">Mobile Tyre Fitting Service Across the UK</h1>
+>>>>>>> cd24c5411e7f2b13ce08ad525b5c62e95732334f
 
         <HeroSection />
         <IncludedSection />

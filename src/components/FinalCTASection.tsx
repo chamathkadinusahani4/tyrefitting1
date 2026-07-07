@@ -5,7 +5,11 @@ export function FinalCTASection() {
   return (
     <section
       className="relative w-full py-24 lg:py-32 bg-white overflow-hidden"
+<<<<<<< HEAD
       aria-labelledby="book-mobile-tyre-fitting-hertfordshire"
+=======
+      aria-labelledby="book-mobile-tyre-fitting-uk"
+>>>>>>> cd24c5411e7f2b13ce08ad525b5c62e95732334f
     >
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
         {/* Main CTA Card */}
@@ -61,7 +65,11 @@ export function FinalCTASection() {
             <div className="flex flex-wrap justify-center gap-3 pt-4">
               {[
                 "All-inclusive pricing",
+<<<<<<< HEAD
                 "Trusted mobile fitters across Hertfordshire",
+=======
+                "Trusted mobile fitters across the UK",
+>>>>>>> cd24c5411e7f2b13ce08ad525b5c62e95732334f
                 "Fast online booking",
               ].map((text) => (
                 <div
@@ -92,7 +100,11 @@ export function FinalCTASection() {
         </div>
       </div>
       <p className="sr-only">
+<<<<<<< HEAD
         NuTyre provides professional mobile tyre fitting services across Hertfordshire.
+=======
+        NuTyre provides professional mobile tyre fitting services across the UK.
+>>>>>>> cd24c5411e7f2b13ce08ad525b5c62e95732334f
         Book a same-day or next-day mobile tyre fitting appointment online. Our
         expert technicians come to your home, work, or roadside for a safe,
         convenient tyre fitting experience.
